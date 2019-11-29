@@ -15,7 +15,7 @@ and open the template in the editor.
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
         <script src="js/clima.js"></script>
         
-            <!-- Tags Gerais -->
+            <!-- Tags Gerais --> 
         <meta NAME="DESCRIPTION" CONTENT="Site de clima de Brusque feito por Luis Felipe"/>
         <meta NAME="ABSTRACT" CONTENT="Climas de Brusque"/>
         <meta name="keywords" content="Clima ,Temperatura ,Brusque ,temperatura em Brsuque ,tempo para Brusque , vento, Previsão de Brusque ,Tempo ,sc ,santa catarina tempo ,santa catarina Clima ,Termometro ,Havan Brusque ,Climax "/>
